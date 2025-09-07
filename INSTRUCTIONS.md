@@ -36,8 +36,8 @@ Simulate the operation of the following integrated circuits, using pull-up resis
 
 ➡️ **Instrucciones:**  
 
-- **ES:** Sube un sólo archivo de Proteus en el que estén simulados todos los chips mencionados en ese archivo.  
-- **EU:** Igo Proteus fitxategi bakar bat, aipatutako txip guztiak bertan simulatuta egongo diren.  
-- **EN:** Upload a single Proteus file in which all the mentioned chips are simulated.  
+- **ES:** Sube un sólo archivo de Proteus en el que estén simulados todos los chips mencionados en ese archivo. Todos los archivos subidos han de tener tu nombre. 
+- **EU:** Igo Proteus fitxategi bakar bat, aipatutako txip guztiak bertan simulatuta egongo diren. Igotako archivo guztiak zure izena eduki beharko dute.
+- **EN:** Upload a single Proteus file in which all the mentioned chips are simulated. All uploaded files must have your name.
 
 
