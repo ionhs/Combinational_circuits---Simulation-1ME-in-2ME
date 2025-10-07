@@ -1,4 +1,4 @@
-# 🛠️ Simulación de Puertas Lógicas / Ate Logikoen Simulazioa / Logic Gate`s Simulation 
+# 🛠️ Simulación de Circuitos Combinacionales / Zirkuitu Konbinazionalen Simulazioa / Combinational Circuits Simulation 
 
 | **Alumnos** | **Curso** | **Módulo** |
 |-------------|-----------|------------|
@@ -19,16 +19,18 @@ Simulate the operation of the following integrated circuits, using pull-up resis
 
 ---
 
-## 🔲 Circuitos a Simular
+## 🔲 Circuitos a Simular / Simulatzeko zirkuituak / Circuits to Simulate
 
-- **7486** → XOR  
-- **7432** → OR  
-- **4082** → AND
-- **7405** → NOT
-- **7402** → NOR  
-- **7400** → NAND  
-- **7404** → NOT  
-- **7408** → AND  
+- **7447** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
+- **7448** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
+- **4063** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
+- **74138** →✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
+- **7490** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description.  
+- **7485** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description.  
+- **7483** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
+- **74147** →✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
+- **74153** →✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
+- **4051** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
 
 ---
 
